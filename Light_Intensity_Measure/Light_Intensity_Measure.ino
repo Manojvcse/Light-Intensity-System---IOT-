@@ -8,8 +8,8 @@
 #define led D1
 #define sensor A0
 char auth[] = "q4CLpHHcb7MKdMHrFoRkM5BBeX0uDrmz";
-char ssid[] = "Mi 11X";
-char pass[] = "kavin@349";
+char ssid[] = "Enter your hospot name";
+char pass[] = "Enter yout hospot password";
 
 BlynkTimer timer;
 
