@@ -1,3 +1,3 @@
 This is a IOT project 
-Sensor-
-Board
+Sensor-LDR
+Board-NodeMCUESP-8266
